@@ -58,12 +58,6 @@ GPA: 5.00 / 5.00
 
 ---
 
-## 🏭 Industry Visit
-- Akij Bakers Ltd. | 2025  
-- Akij Food & Beverage Ltd. | 2024  
-
----
-
 ## 📫 Contact
 - 📞 Phone: 01990152829  
 - 📧 Email: noormustakim@gmail.com  
