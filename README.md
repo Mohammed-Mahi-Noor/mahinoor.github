@@ -67,7 +67,7 @@ GPA: 5.00 / 5.00
 
 ---
 
-## 🏭 Industry Experience
+## 🏭 Industry Visit
 - Akij Bakers Ltd. | 2025  
 - Akij Food & Beverage Ltd. | 2024  
 
@@ -77,10 +77,5 @@ GPA: 5.00 / 5.00
 - 📞 Phone: 01990152829  
 - 📧 Email: noormustakim@gmail.com  
 - 🔗 LinkedIn: [mahi-noor](https://www.linkedin.com/in/mahi-noor-901b8024b)
-
----
-
-## 🚀 Goals
-I aim to leverage my skills in technology and business to create innovative, sustainable solutions and contribute to impactful projects in the future.
 
 ---
