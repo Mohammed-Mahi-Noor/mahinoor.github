@@ -1,12 +1,3 @@
-# Mohammed Mahi Noor
-
-## 👨‍💻 About Me
-I am an undergraduate student majoring in **Technology Management** with a minor in **Finance** at the Islamic University of Technology (IUT).  
-
-I have strong interpersonal, presentation, and teamwork skills. I am passionate about building meaningful networks, creating impactful solutions, and continuously learning. My goal is to contribute to sustainable development and create a story that inspires others.
-
----
-
 ## 🎓 Education
 **Bachelor of Business Administration (BBA) in Technology Management**  
 *Islamic University of Technology (IUT)*  
