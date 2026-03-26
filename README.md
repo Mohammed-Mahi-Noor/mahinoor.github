@@ -20,12 +20,15 @@ GPA: 5.00 / 5.00
 *Beyond The Metrics* | 2026  
 - Co-editor of *INSIGHTs* magazine  
 - Managed and enhanced social media engagement  
+- Magazine Link: [INSIGHTs 2026](https://heyzine.com/flip-book/969bb7139b.html)
 
 ---
 
 ## 🏆 Achievements
 - Finalist – *Mind Sparks Business Case Competition* (2023)  
+![Image](https://github.com/user-attachments/assets/f1a6638a-7de5-4310-97f2-80cea160213c)
 - Semi-finalist – *Beyond The Metrics BizCase* (2023)  
+![Image](https://github.com/user-attachments/assets/44ec5a58-4d32-4748-8fa1-3fd4099ed207)
 
 ---
 
