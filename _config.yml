@@ -2,4 +2,4 @@ remote_theme: pages-themes/time-machine@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: [Mahi Noor]
-description: [I am a Technology Management major at the undergraduate level. I have strong interpersonal, presentation, and teamwork abilities. I am passionate about building strong networks, creating impactful solutions, and learning new things. With my passion, abilities, and hard work, I hope to create an inspiring story about sustainable development.]
+description: [I am a Technology Management major at the undergraduate level. I have strong interpersonal and teamwork abilities. I am passionate about creating impactful solutions and learning new things. With my passion and hard work I hope to create an inspiring story about sustainable development.]
